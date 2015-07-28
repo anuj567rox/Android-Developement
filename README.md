@@ -1,2 +1,2 @@
 # Android-Developement
-For Creating A Android Application 
+This Is My First Trial To Give A Awesome Look To My WebSite
